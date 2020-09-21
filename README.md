@@ -11,4 +11,4 @@ Authentication requests are send with `POST` requests to the firewall.
 
 Please follow me on [Twitter](https://twitter.com/kingzamzon) if you want to get updates about this PHP blog and web development.
 
-Awesome Template from [Nasrul Panely](https://nasrul.dev/panely/)
+Awesome Template from [Nasrul Panely](http://nasrul.dev/panely/v1.0/dashboard1/ltr/index.html)
