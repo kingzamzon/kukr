@@ -5,7 +5,7 @@
               <div class="col-md-6">
                 <p class="text-left mb-0">
                   Copyright <i class="far fa-copyright"></i>
-                  <span id="copyright-year"></span> Victor Eseosa Agency.
+                  <span id="copyright-year"></span> Kukr.
                 </p>
               </div>
             </div>

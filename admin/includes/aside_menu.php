@@ -1,6 +1,6 @@
 <div class="aside">
     <div class="aside-header">
-        <h3 class="aside-title">Victor Eseosa Agency</h3>
+        <h3 class="aside-title">Kukr</h3>
         <div class="aside-addon">
             <button
             class="btn btn-label-primary btn-icon btn-lg"

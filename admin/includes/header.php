@@ -111,7 +111,7 @@
     <div class="header-holder header-holder-mobile sticky-header" id="sticky-header-mobile">
         <div class="header-container container-fluid">
         <div class="header-wrap header-wrap-block justify-content-start">
-            <h4 class="header-brand">Victor Eseosa Agency</h4>
+            <h4 class="header-brand">Kukr</h4>
         </div>
         <div class="header-wrap">
             <button
