@@ -5,7 +5,7 @@
 
 <!-- Get all topics -->
 <?php $topics = getAllTopics();	?>
-	<title>Victor Eseosa Agency - Admin | Create Post</title>
+	<title>Kukr - Admin | Create Post</title>
 </head>
 <body
     class="theme-light aside-active aside-mobile-minimized aside-desktop-maximized preload-active"

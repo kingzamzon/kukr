@@ -8,7 +8,7 @@
 <?php include(ROOT_PATH . '/admin/includes/head_section.php'); ?>
 
 <!-- Get all admin posts from DB -->
-	<title>Victor Eseosa Agency - Admin | Manage Users</title>
+	<title>Kukr - Admin | Manage Users</title>
 </head>
 <body
     class="theme-light aside-active aside-mobile-minimized aside-desktop-maximized preload-active"

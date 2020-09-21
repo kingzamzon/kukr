@@ -4,7 +4,7 @@
 
 <!-- Get all admin posts from DB -->
 <?php $postTotal = getPostTotal(); $commentTotal = getCommentTotal(); $adminTotal = getAdminTotal(); $visitTotal = getVisitTotal(); ?>
-	<title>Victor Eseosa Agency - Admin | Dashboard</title>
+	<title>Kukr - Admin | Dashboard</title>
 </head>
 <body
     class="theme-light aside-active aside-mobile-minimized aside-desktop-maximized preload-active"

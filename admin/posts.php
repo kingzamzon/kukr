@@ -5,7 +5,7 @@
 
 <!-- Get all admin posts from DB -->
 <?php $posts = getAllPosts(); ?>
-	<title>Victor Eseosa Agency - Admin | Manage Posts</title>
+	<title>Kukr- Admin | Manage Posts</title>
 </head>
 <body
     class="theme-light aside-active aside-mobile-minimized aside-desktop-maximized preload-active"

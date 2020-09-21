@@ -4,7 +4,7 @@
 
 <!-- Get all admin posts from DB -->
 <?php $topics = getAllTopics();	?>
-	<title>Victor Eseosa Agency - Admin | Manage Categories</title>
+	<title>Kukr - Admin | Manage Categories</title>
 </head>
 <body
     class="theme-light aside-active aside-mobile-minimized aside-desktop-maximized preload-active"
@@ -30,7 +30,7 @@
               <div class="col-md-4">
                 <div class="portlet">
                   <div class="portlet-header portlet-header-bordered">
-                    <h3 class="portlet-title">Create/Edit Users</h3>
+                    <h3 class="portlet-title">Create/Edit Categories</h3>
                   </div>
                   <div class="portlet-body">
                       <form method="post" action="<?php echo BASE_URL . 'admin/topics.php'; ?>" >
@@ -57,7 +57,7 @@
               <div class="col-md-8">
                 <div class="portlet">
                   <div class="portlet-header portlet-header-bordered">
-                    <h3 class="portlet-title">Admins</h3>
+                    <h3 class="portlet-title">Categories</h3>
                   </div>
                   <div class="portlet-body">
                     <!-- Display notification message -->
